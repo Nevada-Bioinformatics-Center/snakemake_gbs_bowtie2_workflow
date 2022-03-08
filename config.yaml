@@ -1,0 +1,11 @@
+units: units.tsv
+
+ref:
+  # the star index location or genomefa to index
+  index: "Sbicolor_v3.1.1"
+  genomefa: "/data/gpfs/assoc/inbre/projects/common_references/Sbicolor_v3.1.1/Sbicolor_454_v3.0.1.fa"
+  adapter: "/data/gpfs/assoc/inbre/projects/common_references/CustomBlacklist.fa"
+
+params:
+  #trimmers: "trimmomatic,fastp"
+  trimmers: "fastp"

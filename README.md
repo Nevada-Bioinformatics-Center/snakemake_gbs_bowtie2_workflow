@@ -1,0 +1,1 @@
+# snakemake_gbs_bowtie2_workflow
